@@ -470,6 +470,7 @@
 				B95A291719BED70F001E5C12 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B95A291819BED70F001E5C12 /* Build configuration list for PBXNativeTarget "MyFristProductTests" */ = {
 			isa = XCConfigurationList;
@@ -478,6 +479,7 @@
 				B95A291A19BED70F001E5C12 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
